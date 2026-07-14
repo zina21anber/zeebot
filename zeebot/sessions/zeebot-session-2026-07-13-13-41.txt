@@ -1,0 +1,19 @@
+ZeeBot Session
+Date: 2026-07-13
+Start Time: 13:39
+End Time: 13:41
+
+User: what is the last name for zinah?
+ZeeBot: The last name for Zinah is Anbar.
+Source File: ZINAH ANBAR.pdf
+
+User: what are the projects that zinah worked on ?
+ZeeBot: Zinah worked on the following projects: 
+
+1. **Majarat Noor** - An AI-powered educational game based on the Saudi curriculum.
+2. **SmartScheduler** - A smart scheduling web application for time management.
+3. **Rafah** - A smart healthcare platform architecture based on microservices.
+4. **Mindswitch** - A skill-exchange platform for real-time learning sessions.
+Source File: ZINAH ANBAR.pdf
+
+

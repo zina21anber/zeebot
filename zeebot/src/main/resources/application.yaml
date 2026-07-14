@@ -1,0 +1,21 @@
+spring:
+  application:
+    name: zeebot
+  
+  main:
+    web-application-type: none
+
+  ai:
+    openai:
+      api-key: "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"
+      chat:
+        options:
+          model: "gpt-4o-mini"
+
+
+
+pinecone:
+  api-key: pcsk_66BKVG_8m6CKuTYMTbqJxtLMCDX6WU4JMLDtWWQ5swLmKxABjZB1qUZCYzGoqLFCdZKfpK
+  index-host: https://zeebot-index-xbbxo6w.svc.aped-4627-b74a.pinecone.io
+  namespace: zeebot-files
+

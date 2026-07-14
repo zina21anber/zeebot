@@ -1,0 +1,47 @@
+ZeeBot Session
+Date: 2026-07-13
+Start Time: 13:42
+End Time: 13:49
+
+User: ايش اسم زينه الكامل ؟
+ZeeBot: اسم زينه الكامل هو زينه عنبر.
+Source File: ZINAH ANBAR.pdf
+
+User: ما تخصصها ؟
+ZeeBot: No relevant results found.
+
+User: ما هو تخصص زينه ؟
+ZeeBot: زينه تخصصها هو هندسة البرمجيات.
+Source File: ZINAH ANBAR.pdf
+
+User: ما هي ابرز المشاريع التي عملت عليها ؟
+ZeeBot: أبرز المشاريع التي عملت عليها تشمل منصة Mindswitch لتبادل المهارات، وتطبيق SmartScheduler لإدارة الوقت، بالإضافة إلى تصميم منصة رعاية صحية ذكية قائمة على الخدمات الدقيقة.
+Source File: ZINAH ANBAR.pdf
+
+User: ما اسم مشروع تخرجها ؟
+ZeeBot: No relevant results found.
+
+User: ما اسم مشروع تخرج زينه ؟
+ZeeBot: اسم مشروع تخرج زينه هو "Majarat Noor | رون ةرجم".
+Source File: ZINAH ANBAR.pdf
+
+User: ما هي طريقه كتابة التقرير ؟
+ZeeBot: تتضمن طريقة كتابة التقرير عدة عناصر أساسية مثل صفحة العنوان، جدول المحتويات، ملخص تنفيذي، مقدمة، نظرة عامة عن الشركة، وصف التدريب، وغيرها. يُنصح باستخدام خط واضح، وتنسيق مزدوج المسافة، ومراجعة التقرير للتأكد من خلوه من الأخطاء.
+Source File: SWE-Report Guide-2026.docx
+
+User: ايش تخصص زينه ؟
+ZeeBot: زينه تخصصها هو هندسة البرمجيات.
+Source File: ZINAH ANBAR.pdf
+
+User: وين درست؟
+ZeeBot: درست في جامعة الملك سعود.
+Source File: ZINAH ANBAR.pdf
+
+User: كم مشروع اشتغلت فيه ؟
+ZeeBot: لا توجد نتائج ذات صلة.
+Source File: ZINAH ANBAR.pdf
+
+User: كم عدد المشاريع يلي اشتغلت عليها زينه في الجامعه؟
+ZeeBot: No relevant results found.
+
+User: exit
