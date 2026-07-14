@@ -7,7 +7,7 @@ spring:
 
   ai:
     openai:
-      api-key: "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"
+      api-key: "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"
       chat:
         options:
           model: "gpt-4o-mini"
